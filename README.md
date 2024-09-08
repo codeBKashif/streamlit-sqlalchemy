@@ -1,4 +1,4 @@
-### This is a basic CRUD example using streamlit with SQLAlchemy with SQLite3 and Alembic for migrations.
+### This is a basic CRUD example using streamlit data_editor models using SQLAlchemy with SQLite3 and Alembic for migrations.
 
 - install sqlite in your system.
 - run the alembic migrations `alembic upgrade head`
